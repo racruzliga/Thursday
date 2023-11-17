@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<title> This is HTML 1 </title>
+	</head>
+<body>
+<p>This is first paragraph</p>
+<p>This is second paragraph</p>
+
+
+</body> 
+</html>

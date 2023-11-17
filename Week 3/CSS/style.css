@@ -1,0 +1,16 @@
+body {font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Pixelify Sans', sans-serif;}
+
+
+table, th, td {
+	    border: 1px solid;
+	    border-collapse: collapse;
+}
+
+img{
+	height: 10%;
+	width: 10%;
+
+}
+
+
